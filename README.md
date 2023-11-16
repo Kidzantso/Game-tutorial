@@ -1,5 +1,5 @@
 # Game-tutorial
-This readme will be short as this was a tutorial that i followed on the yotube 
+This readme will be short as this was a tutorial that i followed on the yotube (Platformer tutorial)
 https://www.kaaringaming.com/
 
 * I've learnt a new concepts for OOP
